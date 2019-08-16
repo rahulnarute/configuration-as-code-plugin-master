@@ -1,0 +1,5 @@
+unclassified:
+  jiraGlobalConfiguration:
+    sites:
+      - url: "http://jira.codehaus.org/"
+      - url: "http://issues.jenkins.io/"
